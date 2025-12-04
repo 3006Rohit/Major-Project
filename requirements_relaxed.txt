@@ -1,0 +1,64 @@
+# Core Data Science
+numpy
+pandas
+scipy
+scikit-learn
+
+# Stock Data
+yfinance
+alpha-vantage
+requests
+
+# Technical Indicators
+pandas-ta
+# TA-Lib  # Commenting out TA-Lib as it often requires binary compilation
+
+# Machine Learning
+xgboost
+lightgbm
+
+# Deep Learning
+# tensorflow  # might fail on 3.13, trying to install separately or skipping if not strictly needed for basic run
+# keras
+torch
+
+# Sentiment Analysis
+textblob
+transformers
+nltk
+newsapi-python
+
+# Web Framework
+streamlit
+flask
+dash
+plotly
+
+# Visualization
+matplotlib
+seaborn
+
+# Database
+sqlalchemy
+
+# Utilities
+python-dotenv
+tqdm
+joblib
+# pickle5 # usually not needed for newer python
+
+# Deployment
+gunicorn
+python-dateutil
+pytz
+
+# Development & Testing
+pytest
+black
+flake8
+jupyter
+ipython
+notebook
+
+# Docker
+docker
